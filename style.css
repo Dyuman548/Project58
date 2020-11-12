@@ -30,6 +30,11 @@ h1 {
     cursor: pointer;
     color: black;
 }
+
 .links:hover {
     background-color: dodgerblue;
+}
+
+html {
+    scroll-behavior: smooth;
 }
